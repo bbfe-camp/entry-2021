@@ -1,29 +1,24 @@
-![Vue.js Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/vue.svg)
 
-# Vue.js Example
+# BBFE 前端梦工厂(2021年)
 
-This directory is a brief example of a [Vue.js](https://vuejs.org/) app that can be deployed with Vercel and zero configuration.
+## 面向人群
+- 2022-2023年毕业的在校生，有意向做Web前端工程师，并已有初步学习。
+- 2021年5月24日至29日 能有时间参与培训（每天9:30-18:30）。
+![培训日历](/src/assets/calendar.jpg)
 
-## Deploy Your Own
+## 项目介绍
+- 本项目，为有志于学习前端的在校大学生，提供为期一周的免费线下前端培训。 课程表如下（可能会有微调）。
+- 培训后，学员可获得参与培训的相关证书；部分学员可与奇安信双向选择，匹配的学员可以直接获得实习Offer。
+![课程安排](/src/assets/camp-plan.png)
 
-Deploy your own Vue.js project with Vercel.
+## 参与流程
+1.  网申投递，[网申通道已开启，立即投递](https://www.nowcoder.com/job/12933?jobIds=54846)
+2.  笔试阶段，5月上旬
+3.  沟通培训事项，5月中旬
+4.  线下培训，5月24日至5月29日
+5.  实习岗位，双向选择沟通
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/vue)
+## 温馨提示
+- 为期一周的培训时间，如与上课时间冲突，需要提前向学校请假。
 
-_Live Example: https://vue.now-examples.now.sh_
-
-### How We Created This Example
-
-To get started with Vue.js deployed with Vercel, you can use the [Vue CLI](https://cli.vuejs.org/guide/creating-a-project.html#vue-create) to initialize the project:
-
-```shell
-$ vue create
-```
-
-### Deploying From Your Terminal
-
-You can deploy your new Vue.js project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
-```
+## [立即网申](https://www.nowcoder.com/job/12933?jobIds=54846)
